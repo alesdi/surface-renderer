@@ -2,6 +2,10 @@
 
 A MATLAB Toolbox for advanced surface rendering.
 
+
+https://user-images.githubusercontent.com/54476193/177038970-36e9f923-72a3-45d1-996b-db82e801e9b8.mp4
+
+
 Use the `render_surface` function to dynamically render a surface given any
 builder function `engine(x, y)`, iteratively increasing resolution within a
 given range and updating the plot at every new computed point. Stop and resume
